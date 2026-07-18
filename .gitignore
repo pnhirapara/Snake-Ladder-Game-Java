@@ -1,0 +1,15 @@
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Build output
+out/
+bin/
